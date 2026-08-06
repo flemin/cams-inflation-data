@@ -1,0 +1,8 @@
+.env*
+node_modules/
+Internet Business/
+Laptop Projects/
+*.zip
+*token*
+*credential*
+*secret*
